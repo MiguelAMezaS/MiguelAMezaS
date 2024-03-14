@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there Miguel👋
 
+## areas that interest me
+QA Tester Manual || QA Engineer || Analista QA || Developer || Cybersecurity || OSINT
 <!--
 **MiguelAMezaS/MiguelAMezaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
