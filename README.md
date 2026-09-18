@@ -1,7 +1,7 @@
 # Hi there Miguel👋
 
 ## Areas that interest me
-QA Tester Manual || QA Engineer || Analista QA || Developer || Cybersecurity || OSINT
+Cybersecurity | SOC Analyst | Sysadmin | Systems Integration Specialist | IT infrastructure
 
 ## Languages
 <p align="center">
